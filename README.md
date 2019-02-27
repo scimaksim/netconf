@@ -7,4 +7,4 @@ Cisco provides a free lab environment at https://developer.cisco.com/site/sandbo
 
 I recommend the always-on "NETCONF/YANG and RESTCONF on IOS XE" sandbox and the "Open NX-OS Programmability" sandbox.  
 
-![Alt text](get-config.xml "DevNet Labs")
+![Alt text](devnet_labs.PNG "DevNet Labs")
